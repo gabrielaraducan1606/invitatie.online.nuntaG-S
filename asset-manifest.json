@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/invitatie.online.nuntaG-S/static/css/main.7acaea2f.css",
+    "main.js": "/invitatie.online.nuntaG-S/static/js/main.07d3183d.js",
+    "index.html": "/invitatie.online.nuntaG-S/index.html",
+    "main.7acaea2f.css.map": "/invitatie.online.nuntaG-S/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/invitatie.online.nuntaG-S/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
