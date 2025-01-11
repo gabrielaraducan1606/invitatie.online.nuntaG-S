@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "baseUrl": "src"
+    "baseUrl": "rsvp-app/client/src"
   },
-  "include": ["src"]
+  "include": ["rsvp-app/client/src", "rsvp-app/server"]
 }
